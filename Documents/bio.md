@@ -1,2 +1,5 @@
-Name: David Cohen
-Age: 20
+David Cohen
+
+github: david0223
+
+slack: cohend5
