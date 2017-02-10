@@ -1,0 +1,78 @@
+  Step 1: 
+  Results:
+  
+carn-walk-wl-66:Step1 davidcohen$ ./Tutorial
+./Tutorial Version 1.0
+Usage: ./Tutorial number
+carn-walk-wl-66:Step1 davidcohen$ ./Tutorial 25
+The square root of 25 is 5
+    
+  Step 2: 
+  Results:
+  
+carn-walk-wl-66:Step2 davidcohen$ ./Tutorial 25
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+
+  Step 3:
+  Results:
+  
+carn-walk-wl-66:Step3 davidcohen$ ./Tutorial 25
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+
+  Step 4:
+  Results:
+  
+carn-walk-wl-66:Step4 davidcohen$ ./Tutorial 25
+Computing sqrt of 25 to be 5 using log
+The square root of 25 is 5
+
+  Step 5:
+  Results:
+  
+carn-walk-wl-66:Step5 davidcohen$ ./Tutorial 25
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+    
+  results for table.h:
+
+double sqrtTable[] = {
+0,
+1,
+1.41421,
+1.73205,
+2,
+2.23607,
+2.44949,
+2.64575,
+2.82843,
+3,
+0};
